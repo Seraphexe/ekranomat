@@ -24,7 +24,7 @@ const PROCESORY = {
 const KABINETY = {
     "1.5": { piksele: 320, waga: null, moc: null },
     "1.9": { piksele: 256, waga: 7.25, moc: 110 }, // z tabliczki: 440 W/m², 7,25 kg
-    "2.6": { piksele: 192, waga: null, moc: null },
+    "2.6": { piksele: 192, waga: 7.25, moc: 110 }, // z tabliczki: 440 W/m², 7,25 kg
     "3.9": { piksele: 128, waga: null, moc: null },
 };
 
