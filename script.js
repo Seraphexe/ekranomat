@@ -16,7 +16,9 @@ const MAX_KAB_NA_LINIE = 15;
 // Procesory (wg kart producenta)
 const PROCESORY = {
     "vx1000pro": { nazwa: "VX1000 Pro", porty: 10, maxPikseli: 6500000, maxSzer: 10240, maxWys: 8192 },
+    "vx2000pro": { nazwa: "VX2000 Pro", porty: 20, maxPikseli: 13000000, maxSzer: 16384, maxWys: 8192 },
     "mctrl4k": { nazwa: "MCTRL4K", porty: 16, maxPikseli: 3840 * 2160, maxSzer: 3840, maxWys: 2160 },
+    "mctrl660pro": { nazwa: "MCTRL660 PRO", porty: 6, maxPikseli: 1920 * 1200, maxSzer: 3840, maxWys: 2560 },
 };
 
 // Dane kabinetów 500 x 500 mm dla znanych pitchy.
